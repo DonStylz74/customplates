@@ -8,7 +8,6 @@ Config.Style = "streetlife"
     "enhanced"
     "enhanced2"
     "libertycity"
-    "sweden"
-    "uk"
+    "streetlife"
     "vicecity"
 ]]
