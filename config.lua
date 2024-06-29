@@ -1,6 +1,6 @@
 Config = Config or {}
 
-Config.Style = "enhanced2"
+Config.Style = "streetlife"
 
 --[[
     Config.Style Styles
